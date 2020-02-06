@@ -1,1 +1,1 @@
-# emacs.d
+This is my emacs confiuration.
